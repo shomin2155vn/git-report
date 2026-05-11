@@ -2,8 +2,9 @@
 using namespace std;
 
 int sum (int a, int b) {
-    return a + b;
-    // This function takes two integers as input and returns their sum.
+    cout << a + b;
+    cout << "This is the sum function." << endl;
+    return 1;
 }
 
 int main() {
