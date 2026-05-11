@@ -3,6 +3,7 @@ using namespace std;
 
 int sum (int a, int b) {
     return a + b;
+    // This function takes two integers as input and returns their sum.
 }
 
 int main() {
