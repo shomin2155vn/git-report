@@ -3,7 +3,9 @@ using namespace std;
 
 int sum (int a, int b) {
     cout << a + b;
-    cout << "This is the sum function." << endl;
+    // This is a comment
+    // Another comment
+    // One more comment
     return 1;
 }
 
