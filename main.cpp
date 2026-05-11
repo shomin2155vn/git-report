@@ -3,6 +3,7 @@ using namespace std;
 
 int sum (int a, int b) {
     cout << a + b;
+    cout << "This is the sum function." << endl;
     return 1;
 }
 
