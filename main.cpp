@@ -6,6 +6,7 @@ int sum (int a, int b) {
     // This is a comment
     // Another comment
     // One more comment
+    // Final comment
     return 1;
 }
 
