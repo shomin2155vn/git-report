@@ -2,9 +2,9 @@
 using namespace std;
 
 int sum (int a, int b) {
-    cout << a + b;
     cout << "This is the sum function." << endl;
     cout << "This function takes two integers and returns their sum." << endl;
+    cout << "The sum of " << a << " and " << b << " is: " << a + b << endl;
     return 1;
 }
 
