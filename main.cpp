@@ -2,7 +2,8 @@
 using namespace std;
 
 int sum (int a, int b) {
-    return a + b;
+    cout << a + b << endl;
+    return 0;
 }
 
 int main() {
