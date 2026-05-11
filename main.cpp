@@ -8,7 +8,6 @@ int sum (int a, int b) {
     // One more comment
     // Final comment
     cout << "This is the sum function." << endl;
-    cout << "This function takes two integers and returns their sum." << endl;
     return 1;
 }
 
