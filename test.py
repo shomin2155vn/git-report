@@ -7,6 +7,9 @@
 #More Comments
 #Seventh Comment
 #More More Comments
+#Comments
 print("Hello")
 print("World")
 print("Hi")
+print("Everyone")
+print("Welcome")    
