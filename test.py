@@ -10,9 +10,6 @@
 #Comments
 #More More More Comments
 #More More More More Comments
-#Comments
-#More More More Comments
-#More More More More Comments
 print("Hello")
 print("World")
 print("Hi")
